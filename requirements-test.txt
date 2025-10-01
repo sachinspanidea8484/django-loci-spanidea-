@@ -1,4 +1,4 @@
-pytest-cov~=6.1.1
+pytest-cov~=7.0.0
 responses~=0.25.7
 openwisp-utils[qa,selenium,channels,channels-test] @ file:///home/spanidea-lt22/Desktop/NOKIA/communications/openwisp-utils
 
